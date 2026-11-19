@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "이 경제학 재현 코드를 이용할 때에는 자료 버전과 커밋 SHA를 함께 기록해 주세요."
+type: software
+title: "국내 단일종목 레버리지 ETF의 리밸런싱 수요와 순설정의 상쇄: 경제학 논문 재현 코드"
+authors:
+  - family-names: "김"
+    given-names: "도연"
+version: "2026-11-19-v23"
+date-released: "2026-11-19"
+repository-code: "https://github.com/dokim111/letf-economics-thesis"
+url: "https://github.com/dokim111/letf-economics-thesis"
+abstract: "단일종목 레버리지·인버스 ETF의 순노출 조정액과 순설정의 상쇄를 재구성하는 경제학 계산 코드와 실행 안내. KRX 원자료는 별도 확보가 필요하며, 다른 전공 저장소의 파일에 의존하지 않는다."
+keywords:
+  - "leveraged ETF"
+  - "rebalancing"
+  - "net creations"
+  - "reproducibility"
