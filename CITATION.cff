@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "이 경제학 재현 코드를 이용할 때에는 저장소 버전과 커밋 SHA를 함께 기록해 주세요."
 type: software
-title: "국내 단일종목 레버리지 ETF의 리밸런싱 수요와 순설정의 상쇄: 되먹임 모형과 측정"
+title: "국내 단일종목 레버리지 ETF의 리밸런싱 수요와 순설정의 상쇄: 되먹임 모형과 측정 (재현자료)"
 authors:
   - family-names: "김"
     given-names: "도연"
